@@ -101,3 +101,11 @@
 /reviewservice/target/surefire-reports/TEST-com.pluralsight.reviewservice.ReviewserviceApplicationTests.xml
 /reviewservice/target/surefire-reports/TEST-com.pluralsight.reviewservice.service.ReviewServiceTest.xml
 /reviewservice/target/surefire-reports/TEST-com.pluralsight.reviewservice.web.ReviewControllerTest.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/spring-framework-6-unit-testing-junit.iml
+/.idea/vcs.xml
