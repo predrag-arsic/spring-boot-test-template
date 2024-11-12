@@ -1,6 +1,6 @@
-/inventoryservice/target/classes/application.properties
-/productservice/target/classes/application.properties
-/reviewservice/target/classes/application.properties
+/inventoryservice/target/
+/productservice/target/
+/reviewservice/target/
 /inventoryservice/target/surefire-reports/com.globomantics.inventoryservice.integration.InventoryServiceIntegrationTest.txt
 /inventoryservice/target/surefire-reports/com.globomantics.inventoryservice.InventoryserviceApplicationTests.txt
 /inventoryservice/target/surefire-reports/com.globomantics.inventoryservice.service.InventoryServiceMappingTest.txt
