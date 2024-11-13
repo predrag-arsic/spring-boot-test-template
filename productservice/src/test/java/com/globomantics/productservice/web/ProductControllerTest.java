@@ -35,6 +35,7 @@ import java.util.Optional;
 @AutoConfigureMockMvc
 
 class ProductControllerTest {
+
     @MockBean
     private ProductService service;
 
